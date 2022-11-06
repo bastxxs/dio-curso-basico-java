@@ -1,0 +1,40 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch SomaNumero",
+            "request": "launch",
+            "mainClass": "edu.nivel.basico.SomaNumero",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Mt",
+            "request": "launch",
+            "mainClass": "edu.nivel.basico.Mt",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Multiplos",
+            "request": "launch",
+            "mainClass": "edu.nivel.basico.Multiplos"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumerosIguais",
+            "request": "launch",
+            "mainClass": "edu.nivel.basico.NumerosIguais"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
