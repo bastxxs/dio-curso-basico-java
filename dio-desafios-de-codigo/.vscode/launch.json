@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BuscaSequencial",
+            "request": "launch",
+            "mainClass": "BuscaSequencial",
+            "projectName": "dio-desafios-de-codigo_535f4edb"
+        },
+        {
+            "type": "java",
+            "name": "Launch FizzBuzz",
+            "request": "launch",
+            "mainClass": "FizzBuzz",
+            "projectName": "dio-desafios-de-codigo_535f4edb"
+        },
+        {
+            "type": "java",
             "name": "Launch SomaNumero",
             "request": "launch",
             "mainClass": "edu.nivel.basico.SomaNumero",
